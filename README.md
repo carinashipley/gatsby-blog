@@ -1,2 +1,2 @@
 # gatsby-blog
-trying this out
+Making a blog with Gatsby...wheeee!
